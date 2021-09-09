@@ -16,6 +16,7 @@ a,li {
   text-decoration: none;
   color: inherit; 
   list-style-type: none;
+  background-color: blue;
 }
 .navbar {
   background-color: #1a1a1c;
