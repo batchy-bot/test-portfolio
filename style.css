@@ -3,7 +3,6 @@
   margin: 0;
   -webkit-user-select: none;
   font-family: "Century Gothic";
-  background: #751b36;
 }
 body {
   overflow-x: hidden;
@@ -16,7 +15,6 @@ a,li {
   text-decoration: none;
   color: inherit; 
   list-style-type: none;
-  background-color: blue;
 }
 .navbar {
   background-color: #1a1a1c;
