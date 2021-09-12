@@ -6,9 +6,9 @@
 }
 body {
   overflow-x: hidden;
-  width: 100vw;
   display: flex;
   flex-direction: column;
+  padding: 0;
 }
 /* Navbar */
 a,li {
@@ -99,7 +99,8 @@ a,li {
   background-color: #1a1a1c;
   margin-top: 70px;
   justify-content: space-evenly;
-
+  justify-self: center;
+  align-self: center;
 }
 .section-1 .intro {
   color: #9d9d9d;
@@ -122,6 +123,7 @@ a,li {
   animation-duration: 2s;
   animation-fill-mode: forwards;
   margin-bottom: 20px;
+  
 }
 .section-1 h2 {
   font-size: 40px;
